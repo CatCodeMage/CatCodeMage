@@ -17,7 +17,7 @@ Me gusta entender cómo funcionan las cosas por dentro: gráficos 3D con OpenGL,
 
 ## Tecnologías
 
-**Lenguajes:** C++ · C · Python · Bash
-**Gráficos:** OpenGL · GLFW · SDL2
-**Rendimiento:** OpenMP · perf
-**IA:** YOLOv5 / PyTorch · OpenCV
+- **Lenguajes:** C++ · C · Python · Bash
+- **Gráficos:** OpenGL · GLFW · SDL2
+- **Rendimiento:** OpenMP · perf
+- **IA:** YOLOv5 / PyTorch · OpenCV
