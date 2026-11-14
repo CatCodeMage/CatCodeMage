@@ -1,4 +1,4 @@
-# Hola, soy Andreu 👋
+# Hola, soy Andreu
 
 Estudiante en la **Universitat Autònoma de Barcelona (UAB)**.
 
